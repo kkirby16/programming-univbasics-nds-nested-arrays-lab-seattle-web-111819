@@ -21,7 +21,7 @@ def assembled_matrix
   ["Don Gately", "Joelle van Dyne", "Pat M.", "Kate Gompert", "Bruce Green"], 
   ["Hal Incandenza", "Lyle", "Gerhard Schtitt", "Mario Incandenza", "Michael Pemulis"]
   ]
- puts assembled_matrix
+ assembled_matrix
 end
 
 def array_literal_matrix
