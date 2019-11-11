@@ -21,7 +21,7 @@ def assembled_matrix = [
   ["Hal Incandenza", "Lyle", "Gerhard Schtitt", "Mario Incandenza", "Michael Pemulis"]
   ]
  puts assembled_matrix
-
+end
 
 def array_literal_matrix
   # Using Array literal syntax only, build a nested array that uses the data in
